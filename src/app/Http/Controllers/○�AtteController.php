@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+
+class â—‹âAtteController extends Controller
+{
+    //
+}
